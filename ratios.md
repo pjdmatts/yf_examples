@@ -1,5 +1,7 @@
 # Common Financial Ratios
 
+## TODO: Implement using YFinance
+
 - [x] Current Ratio
 
 - [ ] Quick Ratio
@@ -24,6 +26,6 @@
 
 - [ ] Inventory Turnover
 
-### - [ ] Days Inventory
+- [ ] Days Inventory
 
-### - [ ] Receivables Collection Period
+- [ ] Receivables Collection Period
