@@ -10,5 +10,9 @@ print("YFinance Income Statement\n")
 
 print(income_df)
 
+print("YFinance balance sheet\n")
+
+print(balance_df)
+
 
 
