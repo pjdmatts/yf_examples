@@ -1,28 +1,28 @@
 # Common Financial Ratios
 
-### - [x] Current Ratio
+- [x] Current Ratio
 
-### - [ ] Quick Ratio
+- [ ] Quick Ratio
 
-### - [ ] Profit Margin
+- [ ] Profit Margin
 
-### - [ ] Return On Equity
+- [ ] Return On Equity
 
-### - [ ] Return On Assets
+- [ ] Return On Assets
 
-### - [ ] EBITDA Margin
+- [ ] EBITDA Margin
 
-### - [ ] Debt To Assets
+- [ ] Debt To Assets
 
-### - [ ] Debt To Capitalization
+- [ ] Debt To Capitalization
 
-### - [ ] Assets To Shareholders' Equity
+- [ ] Assets To Shareholders' Equity
 
-### - [ ] Interest Coverage Ratio
+- [ ] Interest Coverage Ratio
 
-### - [ ] Asset Turnover
+- [ ] Asset Turnover
 
-### - [ ] Inventory Turnover
+- [ ] Inventory Turnover
 
 ### - [ ] Days Inventory
 
