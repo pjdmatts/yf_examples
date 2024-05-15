@@ -1,29 +1,31 @@
 # Common Financial Ratios
 
-### - [x] Current Ratio
+## TODO: Implement using YFinance
 
-### - [ ] Quick Ratio
+- [x] Current Ratio
 
-### - [ ] Profit Margin
+- [ ] Quick Ratio
 
-### - [ ] Return On Equity
+- [ ] Profit Margin
 
-### - [ ] Return On Assets
+- [ ] Return On Equity
 
-### - [ ] EBITDA Margin
+- [ ] Return On Assets
 
-### - [ ] Debt To Assets
+- [ ] EBITDA Margin
 
-### - [ ] Debt To Capitalization
+- [ ] Debt To Assets
 
-### - [ ] Assets To Shareholders' Equity
+- [ ] Debt To Capitalization
 
-### - [ ] Interest Coverage Ratio
+- [ ] Assets To Shareholders' Equity
 
-### - [ ] Asset Turnover
+- [ ] Interest Coverage Ratio
 
-### - [ ] Inventory Turnover
+- [ ] Asset Turnover
 
-### - [ ] Days Inventory
+- [ ] Inventory Turnover
 
-### - [ ] Receivables Collection Period
+- [ ] Days Inventory
+
+- [ ] Receivables Collection Period
