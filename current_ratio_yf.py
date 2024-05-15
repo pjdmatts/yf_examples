@@ -11,7 +11,7 @@ def get_current(ticker_in):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python finutils_driver.py TICKER")
+        print("Usage: python current_ratio_yf.py TICKER")
         sys.exit(1)
 
     ticker = sys.argv[1]
