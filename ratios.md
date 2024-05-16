@@ -1,5 +1,7 @@
 # Common Financial Ratios
 
+See, for example,  'How Finance Works', Desai
+
 ## TODO: Implement using YFinance
 
 - [x] Current Ratio
