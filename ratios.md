@@ -6,7 +6,7 @@ See, for example,  'How Finance Works', Desai
 
 - [x] Current Ratio
 
-- [ ] Quick Ratio
+- [x] Quick Ratio
 
 - [ ] Profit Margin
 
