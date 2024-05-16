@@ -4,7 +4,7 @@
 
 - [x] Current Ratio
 
-- [ ] Quick Ratio
+- [x] Quick Ratio
 
 - [ ] Profit Margin
 
