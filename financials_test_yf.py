@@ -1,3 +1,6 @@
+# Testing the yfinance library
+# Leverage the Ticker module
+
 import yfinance as yf
 
 ticker = yf.Ticker("GE")
