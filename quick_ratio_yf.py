@@ -1,6 +1,7 @@
 import yfinance as yf
 import sys
 
+# Function calculates Quick Ratio
 def get_quick(ticker_in):
     ticker = yf.Ticker(ticker_in)
     balance_df = ticker.balance_sheet
