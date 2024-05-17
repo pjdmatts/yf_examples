@@ -11,3 +11,7 @@ shareholder_equity = current_assets - current_liabilities
 
 print(net_income)
 print(shareholder_equity)
+
+print("Balance Sheet: \n")
+
+print(balance_df)
