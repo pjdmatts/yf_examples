@@ -1,6 +1,7 @@
 import yfinance as yf
 import sys
 
+# Function calculates Current Ratio
 def get_current(ticker_in):
     ticker = yf.Ticker(ticker_in)
     balance_df = ticker.balance_sheet
