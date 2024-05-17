@@ -8,7 +8,7 @@ See, for example,  'How Finance Works', by Desai
 
 - [x] Quick Ratio
 
-- [ ] Profit Margin
+- [x] Net Profit Margin
 
 - [ ] Return On Equity
 
