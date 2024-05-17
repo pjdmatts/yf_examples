@@ -12,7 +12,7 @@ def get_profit_margin(ticker_in):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python net_profit.py TICKER")
+        print("Usage: python net_profit_yf.py TICKER")
         sys.exit(1)
 
     ticker = sys.argv[1]
