@@ -1,6 +1,6 @@
 # Common Financial Ratios
 
-See, for example,  'How Finance Works', Desai
+See, for example,  'How Finance Works', by Desai
 
 ## TODO: Implement using YFinance
 
