@@ -17,4 +17,4 @@ if __name__ == "__main__":
 
     ticker = sys.argv[1]
     profit = get_profit_margin(ticker)
-    print("Quick: ", profit)
+    print("Net Profit Margin: ", profit)
