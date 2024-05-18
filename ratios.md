@@ -10,7 +10,7 @@ See, for example,  'How Finance Works', by Desai
 
 - [x] Net Profit Margin
 
-- [ ] Return On Equity
+- [x] Return On Equity
 
 - [ ] Return On Assets
 
