@@ -18,4 +18,4 @@ if __name__ == "__main__":
 
     ticker = sys.argv[1]
     roa = get_roa(ticker)
-    print("Retun On Equity: ", roa)
+    print("Retun On Assets: ", roa)
