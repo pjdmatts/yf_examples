@@ -16,7 +16,7 @@ See, for example,  'How Finance Works', by Desai
 
 - [x] EBITDA Margin
 
-- [ ] Debt To Assets
+- [x] Debt To Assets
 
 - [ ] Debt To Capitalization
 
