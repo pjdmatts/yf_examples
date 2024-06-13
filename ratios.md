@@ -12,9 +12,9 @@ See, for example,  'How Finance Works', by Desai
 
 - [x] Return On Equity
 
-- [ ] Return On Assets
+- [x] Return On Assets
 
-- [ ] EBITDA Margin
+- [x] EBITDA Margin
 
 - [ ] Debt To Assets
 
